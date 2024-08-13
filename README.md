@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Senapati Arpan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Full Stack Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me arpansenapati379@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
