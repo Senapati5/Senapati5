@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **arpansenapati379@gmail.com**
+- 📫 How to reach me **student.senapatiarpan@gmail.com**
 
 - 📄 Know about my experiences [https://senapatiarpan.netlify.app/src/pdf/BWU%20BCA%2022_ARPAN%20SENAPATI.pdf](https://senapatiarpan.netlify.app/src/pdf/BWU%20BCA%2022_ARPAN%20SENAPATI.pdf)
 
